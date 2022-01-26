@@ -27,7 +27,7 @@ func IsDustOutput(output *wire.TxOut, relayFeePerKb btcutil.Amount) bool {
 		return false
 	}
 
-	return mempool.IsDust(output, relayFeePerKb)
+	return mempool.isDust(output, relayFeePerKb)
 }
 
 // Transaction rule violations

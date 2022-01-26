@@ -6,7 +6,7 @@ require (
 	github.com/btcsuite/btcutil v1.0.3-0.20210929233259-9cdf59f60c51
 	github.com/btcsuite/btcutil/psbt v1.0.3-0.20210929233259-9cdf59f60c51
 	github.com/btcsuite/btcwallet/wallet/txauthor v1.1.0
-	github.com/btcsuite/btcwallet/wallet/txrules v1.1.0
+	//github.com/btcsuite/btcwallet/wallet/txrules v1.1.0
 	github.com/btcsuite/btcwallet/wallet/txsizes v1.1.0
 	github.com/btcsuite/btcwallet/walletdb v1.3.5
 	github.com/btcsuite/btcwallet/wtxmgr v1.3.0
